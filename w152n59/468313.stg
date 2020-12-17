@@ -1,0 +1,12 @@
+OBJECT_BASE 468313.btg
+OBJECT 2AK4.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -151.514224 59.471641 4.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -151.510776 59.468359 2.8 0.00
+OBJECT 4Z9.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -151.523895 59.453418 6.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -151.520868 59.450903 8.2 0.00
+OBJECT 5Z7.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -151.575039 59.469794 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -151.571396 59.467860 -9999.0 0.00
+OBJECT PASO.btg
+OBJECT_SHARED Models/Airport/windsock.xml -151.704739 59.440493 9.4 0.00
